@@ -17,14 +17,17 @@ The Notes App is an Android application built with Jetpack Compose, designed to 
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-*Caption: Add and edit notes with ease.*
+Add Note              |  Home Screen
+:-------------------------:|:-------------------------:
+<img src="./screenshots/add_note.jpeg" height="400">   |  <img src="./screenshots/home.jpeg" height="400"> 
 
-![Screenshot 2](/path/to/screenshot2.png)
-*Caption: Search and sort notes for quick access.*
+Edit Note                  | Delete Note
+:-------------------------:|:-------------------------:
+<img src="./screenshots/edit_note.jpeg" height="400">    |  <img src="./screenshots/delete_note.jpeg" height="400"> 
 
-![Screenshot 3](/path/to/screenshot3.png)
-*Caption: Set reminders to stay on top of your tasks.*
+Search Note                | Reminder Notification
+:-------------------------:|:-------------------------:
+<img src="./screenshots/search_note.jpeg" height="400">    |  <img src="./screenshots/reminder_notification.jpeg" height="400"> 
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/your-username/notes-app.git`

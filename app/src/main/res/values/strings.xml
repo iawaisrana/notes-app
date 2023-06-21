@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="app_logo">App Logo</string>
+    <string name="add_note_action">Add Note</string>
+    <string name="search_notes_action">Search Notes</string>
+    <string name="sort_notes_action">Sort Notes</string>
+    <string name="delete_all_notes_action">Delete All</string>
+    <string name="search_placeholder">Search</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="priority">Priority</string>
+    <string name="note_icon">Note Icon</string>
+    <string name="create_your_note">Create your first note !</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="save_note_action">Save note action</string>
+    <string name="edit_note_action">Edit note action</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="delete_note_action">Delete note action</string>
+    <string name="down_arrow">Down Arrow</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter title</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter description</string>
+    <string name="reminder_title">Do you need reminder?</string>
+    <string name="pick_date_time">Select date and time</string>
+    <string name="note_validation_error">Please enter title and description</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="discard">Discard</string>
+    <string name="keep">Keep</string>
+    <string name="discard_changes_alert_title">Discard changes?</string>
+    <string name="discard_note_changes_alert_message">Are your sure you want discard your changes?</string>
+    <string name="delete_note_alert_title">Delete?</string>
+    <string name="delete_note_alert_message">Are you sure you want to delete this note?</string>
+    <string name="delete_all_notes_alert_title">Delete All Notes?</string>
+    <string name="delete_all_notes_alert_message">Are you sure you want to delete all the notes? There is no going back after this action.</string>
+    <string name="calendar_icon">Calendar Icon</string>
+
+</resources>

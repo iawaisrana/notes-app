@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Notes" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:fontFamily">@font/nunito_font_family</item>
+    </style>
+
+    <style name="CustomFontStyle">
+        <item name="android:fontFamily">@font/nunito_font_family</item>
+    </style>
+
+    <style name="Theme.Notes.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_inset</item>
+        <item name="postSplashScreenTheme">@style/Theme.Notes</item>
+    </style>
+</resources>

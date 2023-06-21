@@ -30,7 +30,7 @@ Search Note                | Reminder Notification
 <img src="./screenshots/search_note.jpeg" height="400">    |  <img src="./screenshots/reminder_notification.jpeg" height="400"> 
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/your-username/notes-app.git`
+1. Clone this repository: `git clone https://github.com/awais-fastian/notes-app.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 

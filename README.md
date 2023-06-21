@@ -1,7 +1,7 @@
 
 # Notes App
 
-![Logo](/path/to/logo.png)
+![Logo](./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## Overview
 The Notes App is an Android application built with Jetpack Compose, designed to help you efficiently create, edit, delete, search, sort, and set reminders for your notes. This app provides a seamless note-taking experience.
